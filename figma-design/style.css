@@ -195,15 +195,15 @@ header .hero-image .photo-bg {
   position: absolute;
 }
 
+.nav-btn-container .search-btn {
+  pointer-events: auto;
+  transition: 300ms;
+}
+
 .nav-btn-container .close-btn {
   opacity: 0;
   pointer-events: none;
   transform: translateY(-8px);
-  transition: 300ms;
-}
-
-.nav-btn-container .search-btn {
-  pointer-events: auto;
   transition: 300ms;
 }
 
@@ -221,6 +221,3 @@ header .hero-image .photo-bg {
 
 /* Hidden Items */
 
-.search-box {
-  /* display: none; */
-}
