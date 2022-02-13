@@ -2,11 +2,13 @@
 
 ## Youtube 강의
 ### 디자이너를 위한 웹 입문 강의 
-- https://www.youtube.com/playlist?list=PLkbzizJk4Ae_ZCinIZzwLf4XDh1NvjmyE
 - by 디자인베이스
-☞ 디자인베이스 소개 : http://designbase.co.kr/about/
-☞ 공식 웹사이트 : http://designbase.co.kr/
-☞ 네이버블로그 : https://blog.naver.com/designbasekorea
+- https://www.youtube.com/playlist?list=PLkbzizJk4Ae_ZCinIZzwLf4XDh1NvjmyE
+- https://www.youtube.com/watch?v=_nJl75kn3yY&list=PLkbzizJk4Ae_ZCinIZzwLf4XDh1NvjmyE&index=6
+- https://designbase.co.kr/webcoding-7/
+- 디자인베이스 소개 : http://designbase.co.kr/about/
+- 공식 웹사이트 : http://designbase.co.kr/
+- 네이버블로그 : https://blog.naver.com/designbasekorea
 
 ## VS extension
 Auto Close Tag - 자동으로 태그를 닫아주는 기능
