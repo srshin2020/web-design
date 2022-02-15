@@ -1,0 +1,49 @@
+/* .item-wrap {} */
+* {
+    box-sizing: border-box;
+}
+
+.item-wrap {
+    position: relative;
+    background-color: #eeeeee;
+    width: 600px;
+    padding: 20px;
+    height: 1800px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.item {
+    background-color: #0000ff;
+    margin-bottom: 20px;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+    height: 40px;
+    width: 200px;
+}
+
+.static {
+    position: static;
+    left: 60px;
+}
+
+/* 원래 있어야 할 기준(자기자신을 기준)에서 이동 */
+/* 부모의 padding을 기준 */
+.relative {
+    position: relative;
+    left: 60px;
+}
+
+/* 부모 기준 */
+/* 부모의 padding 고려하지 않고 원 위치 기준 */
+.absolute {
+    position: absolute;
+    left: 60px;
+}
+
+/* 최상단 기준, 고정 */
+.fixed {
+    position: fixed;
+    left: 60px;
+}

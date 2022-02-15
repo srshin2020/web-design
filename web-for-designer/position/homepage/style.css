@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* 최상단 기준, 고정 */
+header {
+    position: fixed;
+    background-color: #0000ff;
+    color: #ffffff;
+    width: 100%;
+    padding: 20px;
+}
+
+.logo {
+    display: inline-block;
+}
+
+nav {
+    padding-top: 20px;
+    float: right;
+}
+
+nav ul {
+    font-size: 0;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+nav li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+main {
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 40px 20px;
+    line-height: 1.5;
+}
+
+.image-wrap {
+    margin-left: 20px;
+    width: 80%;
+    position: relative;
+}
+
+
+.img-2 {
+    position: absolute;
+    right: 100px;
+    bottom: -60px;
+}
