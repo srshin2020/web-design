@@ -1,0 +1,45 @@
+.container {
+    padding: 120px;
+}
+
+.item-list {
+    border: 1px solid #eeaaee;
+    width: 100%;
+    max-width: 375px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.item-list>h1 {
+    font-size: 18px;
+    padding: 12px;
+    margin: 12px 0;
+}
+
+.item {
+    padding: 12px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.item:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.item h2 {
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 1.4;
+    margin: 4px 0;
+}
+
+/* float left */
+.item img {
+    float: left;
+    margin-right: 8px;
+    border-radius: 4px;
+}
+
+.clear {
+    clear: both;
+}

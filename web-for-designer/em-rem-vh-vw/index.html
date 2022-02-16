@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="center">
+        <div class="item-wrap percent-wrap">
+            <h1>%: 부모 element에 대한 비율, 상대값</h1>
+            <div class="item">50%</div>
+            <div class="item-parent">
+                <div class="item">50%</div>
+            </div>
+        </div>
+        <div class="item-wrap em">
+            <h1>em 상위 폰트 사이즈가 기준. 상대값</h1>
+            <div class="item">30em</div>
+            <div class="item-parent">
+                <div class="item">30em</div>
+            </div>
+        </div>
+        <div class="item-wrap rem">
+            <h1>rem: root em 최상위 폰트 사이즈가 기준. 절대값. html 속성</h1>
+            <div class="item">30rem</div>
+            <div class="item-parent">
+                <div class="item">30rem</div>
+            </div>
+        </div>
+        <div class="item-wrap vw-vh">
+            <h1>vw, vh: 화면(viewport) 기준 절대값. 부모와 무관</h1>
+            <div class="item">20vw</div>
+            <div class="item-parent">
+                <div class="item">20vw</div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
