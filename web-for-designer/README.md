@@ -39,6 +39,6 @@ Uploading 화면 기록 2022-02-17 오전 11.08.04.mo
 
 
 <img width="652" alt="스크린샷 2022-02-17 오전 11 13 30" src="https://user-images.githubusercontent.com/96237885/154391852-20a020fa-818e-46e8-ada7-2ce55668293e.png">
-<img width="400" alt="스크린샷 2022-02-17 오전 11 14 26" src="https://user-images.githubusercontent.com/96237885/154391842-e758ad2e-04fc-4b93-8193-1adbaa82ba20.png">
-<img width="400" alt="스크린샷 2022-02-17 오전 11 14 45" src="https://user-images.githubusercontent.com/96237885/154391728-c6d9bccb-5da8-4827-a6be-bbd0293cf7dc.png"> 
-<img width="400" alt="스크린샷 2022-02-17 오전 11 15 45" src="https://user-images.githubusercontent.com/96237885/154391699-4833eba5-9b0b-4dd2-8200-8803c0c2da83.png">
+<img width="600" alt="스크린샷 2022-02-17 오전 11 14 26" src="https://user-images.githubusercontent.com/96237885/154391842-e758ad2e-04fc-4b93-8193-1adbaa82ba20.png">
+<img width="600" alt="스크린샷 2022-02-17 오전 11 14 45" src="https://user-images.githubusercontent.com/96237885/154391728-c6d9bccb-5da8-4827-a6be-bbd0293cf7dc.png"> 
+<img width="600" alt="스크린샷 2022-02-17 오전 11 15 45" src="https://user-images.githubusercontent.com/96237885/154391699-4833eba5-9b0b-4dd2-8200-8803c0c2da83.png">
